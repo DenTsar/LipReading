@@ -1,0 +1,2 @@
+rootProject.name='LipReading'
+include ':app'
