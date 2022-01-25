@@ -1,6 +1,6 @@
 # Learning to Read Lips App
 
-An app to practice lip reading from snippets of Youtube videos.
+An app to practice lip reading from snippets of YouTube videos.
 
 ## Overview
 - Used Youtube API to get captions from [vlogbrothers](https://www.youtube.com/vlogbrothers) videos and added them to Firebase
